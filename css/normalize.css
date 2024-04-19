@@ -4,7 +4,7 @@ Author Name: Naimur Rahman
 Website: http://wpthemesgrid.com/
 Description: Mediplus - Doctor HTML Template.
 Version:	1.1
-========================================*/ 
+========================================*/
 
 /*--------------------------------------------------------------
 # Normalize
@@ -429,8 +429,8 @@ Preloader Area CSS
 	color: #fff;
 	padding: 13px 25px;
 	font-size: 14px;
-	text-transform: capitalize;
-	font-weight: 500;
+	font-weight: bold;
+
 	background: #1A76D1;
 	position: relative;
 	box-shadow: none;
